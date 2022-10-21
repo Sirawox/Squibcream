@@ -8,18 +8,14 @@
 
 
 body {
-    background-color:#111111;
+    background-color:#340041;
     color: white;
   }
   
   a { 
     color: #3DAEE9;
   }
-  #group {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
+
   
 .navbar {
   overflow: hidden;
@@ -83,7 +79,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #111111; 
+  background-color: #220729; 
 }
 
 .navbar a {
@@ -112,7 +108,7 @@ body {
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: #333;
+  background-color: #5F0077;
 }
 
 .subnav-content {
